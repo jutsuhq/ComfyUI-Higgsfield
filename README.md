@@ -114,6 +114,7 @@ python -m unittest discover -s tests
 
 - [Jutsu Studio](https://jutsustudio.com) is a desktop app for the same Higgsfield models. It adds a queue, a library and price checks on every run.
 - [higgsfield-seedance-prompt-skill](https://github.com/jutsuhq/higgsfield-seedance-prompt-skill) is a Claude Code skill that writes Seedance 2.5 prompts.
+- [claude-code-video-generation](https://github.com/jutsuhq/claude-code-video-generation) generates the same videos from Claude Code, with the same price check and cap.
 - [open-source-higgsfield](https://github.com/jutsuhq/open-source-higgsfield) lists open-source projects built around Higgsfield.
 
 ## License
