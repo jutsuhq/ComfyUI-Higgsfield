@@ -1,6 +1,6 @@
 # ComfyUI-Higgsfield: Seedance 2.5, Kling 4.0 and Genjutsu nodes for ComfyUI
 
-ComfyUI custom nodes for the [Higgsfield API](https://docs.higgsfield.ai). They generate AI video in [ComfyUI](https://github.com/comfyanonymous/ComfyUI) with **Seedance 2.5**, **Kling 4.0** and **Genjutsu motion transfer** (character swap). Each node shows the price before you run it. You pay Higgsfield directly in USD with your own API key, so you need no comfy.org account or credits.
+ComfyUI custom nodes for the [Higgsfield API](https://docs.higgsfield.ai). They generate AI video in [ComfyUI](https://github.com/comfyanonymous/ComfyUI) with **Seedance 2.5**, **Kling 4.0** and **Genjutsu motion transfer** (character swap). Each node shows the price before you run it. You pay Higgsfield directly in USD with your own API key, so you need no comfy.org account or credits. Every Higgsfield model and price: [Higgsfield price table](https://jutsustudio.com/higgsfield-pricing/).
 
 ![The three Higgsfield nodes in ComfyUI with their price badges](docs/nodes.jpg)
 
