@@ -40,7 +40,7 @@ Then restart ComfyUI. The pack needs no extra Python packages; it uses only the 
 Create a key under API keys in [console.higgsfield.ai](https://console.higgsfield.ai), then do one of these:
 
 - Set `HF_KEY=KEY_ID:KEY_SECRET` before you start ComfyUI. `HF_API_KEY` with `HF_API_SECRET` also works.
-- Paste `KEY_ID:KEY_SECRET` into `custom_nodes/ComfyUI-Higgsfield/higgsfield_key.txt`. Git ignores this file.
+- Paste `KEY_ID:KEY_SECRET` into `higgsfield_key.txt` in the pack's folder under `custom_nodes`. Git ignores this file.
 
 The key is never a node widget, because ComfyUI saves widget values into workflow files and into the metadata of every image and video it writes.
 
