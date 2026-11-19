@@ -1,0 +1,10 @@
+{
+  "checked": "2026-11-19",
+  "note": "Higgsfield self-serve list prices in USD per second. The nodes read the exact price from POST /estimate before every run.",
+  "per_second": {
+    "seedance-2.5": { "480p": 0.1177, "720p": 0.2647, "1080p": 0.6518 },
+    "kling-4.0": { "720p": 0.1257, "1080p": 0.1879 },
+    "genjutsu": { "480p": 0.154, "720p": 0.3446, "1080p": 0.8346 },
+    "genjutsu-light": { "480p": 0.0739, "720p": 0.1471, "1080p": 0.2936 }
+  }
+}

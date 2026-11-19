@@ -1,0 +1,4 @@
+higgsfield_key.txt
+__pycache__/
+*.pyc
+.venv/

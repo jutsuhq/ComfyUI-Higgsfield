@@ -1,0 +1,17 @@
+[project]
+name = "comfyui-higgsfield"
+description = "ComfyUI custom nodes for the Higgsfield API: Seedance 2.5, Kling 4.0 and Genjutsu motion transfer video generation, with the price shown before every run. Your own Higgsfield key, no comfy.org credits."
+version = "0.1.0"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = ["Operating System :: OS Independent"]
+
+[project.urls]
+Repository = "https://github.com/jutsuhq/ComfyUI-Higgsfield"
+"Bug Tracker" = "https://github.com/jutsuhq/ComfyUI-Higgsfield/issues"
+
+[tool.comfy]
+PublisherId = "jutsuhq"
+DisplayName = "ComfyUI-Higgsfield"
+Icon = ""
